@@ -1,2 +1,2 @@
 # go-cli
-cli app built using golang
+cli booking app built using golang
